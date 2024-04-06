@@ -2,4 +2,4 @@
 
 📚 Aula - Repositório dio.me Git/Github
 
-_Criando meu Primeiro Repositório no GitHub Para Compartilhar o Progresso [https://www.dio.me/sign-up]_
+_Criando meu primeiro repositório no GitHub para compartilhar o progresso [https://www.dio.me/sign-up]_
