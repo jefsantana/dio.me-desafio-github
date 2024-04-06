@@ -1,3 +1,5 @@
-link para download: https://git-scm.com/downloads
+A melhor aula para quem está iniciando no Git/GitHub 
 
-Gitbash é um terminal extendido para otimizar o uso do Git
+Dio.me - https://web.dio.me/lab/criando-seu-primeiro-repositorio-no-github-para-compartilhar-seu-progresso/learning/a6e285fa-b9a0-4bc2-8353-7b729dabcf0c
+
+
